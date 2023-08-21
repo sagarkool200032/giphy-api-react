@@ -1,4 +1,4 @@
-import Giphy from './components/Giphy/Giphy'
+import Giphy from "./components/Giphy/Giphy.jsX";
 
 function App() {
   return (
