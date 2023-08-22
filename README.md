@@ -1,5 +1,5 @@
-# React App Using Giphy API
+# Expense Tracker
 
 ## Live Website URL
 
-https://giphy-api-react.pages.dev/
+https://expense-tracker-react.pages.dev/
