@@ -1,4 +1,4 @@
-# Expense Tracker
+# Giphy api react
 
 ## Live Website URL
 
