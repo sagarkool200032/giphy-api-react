@@ -2,4 +2,4 @@
 
 ## Live Website URL
 
-https://expense-tracker-react.pages.dev/
+https://giphy-api-react.pages.dev/
